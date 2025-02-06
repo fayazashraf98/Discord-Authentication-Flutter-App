@@ -1,6 +1,7 @@
 # Discord Authentication Flutter App
 
 This Flutter project demonstrates how to integrate Discord OAuth2 authentication into a Flutter app using the PKCE (Proof Key for Code Exchange) flow. Users can log in using their Discord account, and upon successful authentication, their basic profile data is displayed. A logout button allows users to clear the displayed information.
+
 <img src="https://github.com/user-attachments/assets/abed2ed8-0e64-49d8-81d2-95efa03a28ba" alt="Italian Trulli">
 
 
