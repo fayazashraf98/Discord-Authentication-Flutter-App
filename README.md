@@ -47,5 +47,5 @@ This project uses the following packages and techniques:
    - The retrieved user data (including username, ID, avatar URL, global name, and locale) is displayed on the home screen.
    - A logout button is provided to clear the displayed data.
 
-## Project Structure
+
 
