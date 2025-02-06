@@ -7,9 +7,7 @@ This Flutter project demonstrates how to integrate Discord OAuth2 authentication
 - [Overview](#overview)
 - [Features](#features)
 - [How It Works](#how-it-works)
-- [Project Structure](#project-structure)
-- [Setup and Running](#setup-and-running)
-- [Dependencies](#dependencies)
+
 
 ## Overview
 
